@@ -8,6 +8,10 @@ Hi! I'm a beginner learning **Python**, **AI**, and **Cybersecurity**.
 - I'm learning how GitHub works
 - I will upload Python scripts here
 
+## 🔹 Features
+- my first python code
+- motion detector code
+
 ## 🔹 Interests
 - Python programming 🐍
 - AI Agents 🤖

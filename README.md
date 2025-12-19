@@ -1,2 +1,21 @@
 # my-first-python-project
-My first GitHub repository. Learning Python, AI, and Cybersecurity step by step.
+# 🚀 My First GitHub Repository
+
+Hi! I'm a beginner learning **Python**, **AI**, and **Cybersecurity**.
+
+## 🔹 About this repo
+- This is my first GitHub project
+- I'm learning how GitHub works
+- I will upload Python scripts here
+
+## 🔹 Interests
+- Python programming 🐍
+- AI Agents 🤖
+- Cybersecurity & automation 🔐
+
+## 🔹 Goal
+Learn by building small projects consistently.
+
+---
+⭐ Feel free to explore and give feedback!
+
